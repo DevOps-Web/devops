@@ -3,7 +3,7 @@ python
 
 1. Installation of python
 	
-		https://www.python.org/downloads/
+		https://www.python.org/downloads/  .
 
 2. Pycahrm Installation
 
